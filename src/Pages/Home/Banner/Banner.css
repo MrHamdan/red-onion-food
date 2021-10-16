@@ -1,0 +1,16 @@
+.banner-container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.banner-image{
+    background-image: url("../../../images/bannerbackground.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:fluid;
+    height:500px;
+}
+.search{
+    display:flex;
+    /* width:500px; */
+}
